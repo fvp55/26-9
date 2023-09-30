@@ -1,0 +1,56 @@
+/*selector{
+estilo
+}*/
+/*tipo de selector
+1-Etiqueta por ejemplo h1, p
+2-clases + nombre, parte de una etiqueta
+3-id # + nombre id que tiene una etiqueta*/
+
+body{
+    background-color: aqua;
+}
+.fondoverde{
+    background-color: green;
+}
+h2{
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tituloprincipal{
+    background-color: rgb(199, 255, 9);
+    width: 100px;
+    height: 25px;
+    display: inline-block;
+}
+button{
+    background-color: chocolate;
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.teclado{
+    width: 800px;
+}
+#boton2{
+    background-color: gray;
+}
+.texto2{
+    width: 25%;
+    height: 40%;
+}
+.bordeazul{
+    border-color: blue;
+    border-width: 2px;
+    border-style: dotted;
+}
+#textounico{
+    background-image: url(./imagenes2/7-77627_illuminati-wallpapers-full-hd-fondos-de-pantalla-hd.jpg);
+}
+ul{
+    background-color: brown;
+    width: 500px;
+}
+li{
+    background-color: red;
+    width: 50%;
+}
